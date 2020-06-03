@@ -8,7 +8,6 @@ class App extends Component{
     return(
       <>
         <Decrement start ={5} />
-        <Decrement start ={59} />
       </>
     )
   }
